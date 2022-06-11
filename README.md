@@ -1,2 +1,2 @@
-# master_thesis
+# Yeji's master's thesis
 ## Abstract 
